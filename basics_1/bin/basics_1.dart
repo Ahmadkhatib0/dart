@@ -1,1 +1,1 @@
-import 'package:basics_1/basics_1.dart' as basics_1;
+import 'package:basics_1/1_strings.dart' as basics_1;
