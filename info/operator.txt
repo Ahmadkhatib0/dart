@@ -1,0 +1,12 @@
+OPERATOR PRECEDENCE
+The following list shows the order that Dart uses to evaluate expressions containing comparison and logical operators
+ ╭──────────────────────────────╮
+ │ 1-               !           │
+ │ 2-               >=  >  <= < │
+ │ 3-               == !=       │
+ │ 4-               &&          │
+ │ 5-               ||          │
+ ╰──────────────────────────────╯
+
+In Dart, switch statements don’t support ranges like number > 5. Only == equality checking is allowed. 
+If your conditions involve ranges, then you should use if statements.
