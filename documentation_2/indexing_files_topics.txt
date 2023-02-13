@@ -1,0 +1,19 @@
+1_general : 
+Cascade notation
+closures in for loop 
+fall-through with continue in Switch
+Exceptions
+compile-time constants
+operators
+unnamed no-argument superclass constructor 
+Forward parameters
+operator declaration 
+
+
+2_general : 
+generator function 
+Callable classes
+typedef 
+custom metadata 
+Implementing generic extensions 
+lazily imported libraries
